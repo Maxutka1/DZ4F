@@ -1,0 +1,4 @@
+﻿  DZF1.cpp
+C:\Users\Admin\source\repos\DZF1\DZF1\DZF1.cpp(208,9): warning C4101: first_node_found: неиспользованная локальная переменная
+C:\Users\Admin\source\repos\DZF1\DZF1\DZF1.cpp(206,9): warning C4101: first_node: неиспользованная локальная переменная
+  DZF1.vcxproj -> C:\Users\Admin\source\repos\DZF1\Debug\DZF1.exe
